@@ -1,0 +1,953 @@
+{"-sC-":
+	{
+		"c": {
+			"it": "-sC-",
+			"es": "-sC-",
+			"pt": "-sC-",
+			"fr": "-C-"			
+		},
+		"p": {
+			"it": ["-", "s", "C", "-"],
+			"es": ["-", "s", "C", "-"],
+			"pt": ["-", "ʃ", "C", "-"],
+			"fr": ["-", "C", "-"]			
+		},
+		"example": "pescare, pascar, pescar, pêcher",
+		"oriɡin": "Dorman2010, 9|Bowman1980, 35",
+		"rule": "ɡeneral"
+	},
+"sC-":
+	{
+		"c": {
+			"it": "sC-",
+			"es": "esC-",
+			"pt": "esC-",
+			"fr": "C-"
+		},
+		"p": {
+			"it": ["s", "C", "-"],
+			"es": ["e", "s", "C", "-"],
+			"pt": ["i", "ʃ", "C", "-"],
+			"fr": ["e", "C", "-"]			
+		},
+		"example": "spada, espada, espada, épée",
+		"oriɡin": "Dorman2010, 9|Bowman1980, 35",
+		"rule": "ɡeneral"
+	},
+"sp-":
+	{
+		"c": {
+			"it": "sp-",
+			"es": "esp-",
+			"pt": "esp-",
+			"fr": "ep-"
+		},
+		"p": {
+			"it": ["s", "p", "-"],
+			"es": ["e", "s", "p", "-"],
+			"pt": ["e", "ʃ", "p", "-"],
+			"fr": ["e", "p", "-"]			
+		},
+		"ooc": [{
+			"it": ["p"],
+			"es": ["p"],
+			"pt": ["p"],
+			"fr": ["p"]
+		}],
+		"example": "spada, espada, espada, épée",
+		"oriɡin": "Dorman2010, 9|Bowman1980, 35",
+		"rule": "PBV"
+	},
+"st-":
+	{
+		"c": {
+			"it": "st-",
+			"es": "est-",
+			"pt": "est-",
+			"fr": "et-"
+		},
+		"p": {
+			"it": ["s", "t", "-"],
+			"es": ["e", "s", "t", "-"],
+			"pt": ["e", "ʃ", "t", "-"],
+			"fr": ["e", "t", "-"]			
+		},
+		"ooc": [{
+			"it": ["t"],
+			"es": ["t"],
+			"pt": ["t"],
+			"fr": ["t"]
+		}],
+		"example": "stella, estrella, estrella, étoile",
+		"oriɡin": "Dorman2010, 9|Bowman1980, 35",
+		"rule": "ɡeneral"
+	},
+"-VcV-":
+	{
+		"c": {
+			"it": "-VcV-",
+			"es": "-VɡV-",
+			"pt": "-VɡV-",
+			"fr": "-V-"			
+		},
+		"p": {
+			"it": ["-", "V", "k", "V", "-"],
+			"es": [["-", "V", "ɡ", "V", "-"], ["-", "V", "ɣ", "V", "-"]],
+			"pt": ["-", "V", "ɡ", "V", "-"],
+			"fr": ["-", "V", "-"]			
+		},
+		"ooc": [{
+			"it": ["k"],
+			"es": ["ɡ", "ɣ"],
+			"pt": ["ɡ"],
+			"fr": [""]			
+		}],
+		"oriɡin": "Dorman2010, 6|Hualde2016",
+		"rule": "ɡeneral"
+	},
+"-Cc-":{
+	"p": {
+		"it": ["-", "t", "ʃ", "-"],
+		"es": [["-", "θ", "-"], ["-", "s", "-"]],
+		"pt": ["-", "s", "-"],
+		"fr": ["-", "s", "-"]
+	},
+	"ooc": [{
+		"it": ["tʃ"],
+		"es": ["θ", "s"],
+		"pt": ["s"],
+		"fr": ["s"]
+	}],
+	"example": "mercede, merced, mercede, merci",
+	"oriɡin": "Bowman1980, 6",
+	"rule": "TD"
+},
+"c-":{
+	"p": {
+		"it": ["t", "ʃ", "-"],
+		"es": [["θ", "-"], ["s", "-"]],
+		"pt": ["s", "-"],
+		"fr": ["s", "-"]
+	},
+	"ooc": [{
+		"it": ["tʃ"],
+		"es": ["θ", "s"],
+		"pt": ["s"],
+		"fr": ["s"]
+	}],
+	"example": "cento, ciento, cento, cent",
+	"oriɡin": "Bowman1980, 6",	
+	"rule": "TD"
+},
+"-ct-":
+	{
+		"c": {
+			"it": "-tt-",
+			"es": "-ch-",
+			"pt": "-ite-,-ut-,-t-",
+			"fr": "-it-"
+		},
+		"p": {
+			"it": ["-", "tː", "-"],
+			"es": [["-", "t", "ɕ", "-"], ["-", "t", "ʃ", "-"]],
+			"pt": [["-", "j", "t", "-"], ["-", "u", "t", "-"], ["-", "t", "-"]],
+			"fr": [["-", "i", "-"], ["-", "i", "t", "-"]]
+		},
+		"ooc": [{
+			"it": ["tː"],
+			"es": ["tɕ", "tʃ"],
+			"pt": ["jt", "wt", "t"],
+			"fr": ["i", "it"]
+		}],
+		"example": "notte, noche, noite, nuit",
+		"oriɡin": "Dorman2010, 13 | Bowman1980, 9",
+		"rule": "TD"
+	},
+"-VtV-":
+	{
+		"c": {
+			"it": "-VtV-",
+			"es": "-VdV-",
+			"pt": "-VdV-",
+			"fr": "-V-"			
+		},
+		"p": {
+			"it": ["-", "V", "t", "V", "-"],
+			"es": [["-", "V", "d", "V", "-"], ["-", "V", "ð", "V", "-"]],
+			"pt": ["-", "V", "d", "V", "-"],
+			"fr": ["-", "V", "-"]
+		},
+		"ooc": [{
+			"it": ["t"],
+			"es": ["d", "ð"],
+			"pt": ["d"],
+			"fr": [""]
+		}],
+		"example": "maturo, maduro, maduro, mûr",
+		"oriɡin": "Dorman2010, 31 | Bowman1980, 36 | Hualde2016",
+		"rule": "TD"
+	},
+"-aut-":
+	{
+		"c": {
+			"it": "-aut-",
+			"es": "-ot-",
+			"pt": "-out-",
+			"fr": "-ot-"			
+		},
+		"p": {
+			"it": ["-", "a", "w", "t", "V", "-"],
+			"es": ["-", "o", "t", "V", "-"],
+			"pt": ["-", "o", "w", "t", "V", "-"],
+			"fr": ["-", "o", "t", "-"]
+		},
+		"ooc": [{
+			"it": ["t"],
+			"es": ["t"],
+			"pt": ["t"],
+			"fr": ["t"]
+		}],
+		"example": ", ot~ono, outono, ",
+		"oriɡin": "Dorman2010, 31 | Bowman1980, 36, note 2 | Hualde2016",
+		"rule": "TD"
+	},
+"-VdV-":
+	{
+		"c": {
+			"it": "-VdV-",
+			"es": "-VdV-,-V-",
+			"pt": "-V-",
+			"fr": "-V-"
+		},
+		"p": {
+			"it": ["-", "V", "d", "V", "-"],
+			"es": [["-", "V", "d", "V", "-"], ["-", "V", "ð", "V", "-"], ["-", "V", "-"]],
+			"pt": ["-", "V", "-"],
+			"fr": ["-", "V", "-" ]
+		},
+		"ooc": [{
+			"it": ["d"],
+			"es": ["d", "ð", ""],
+			"pt": [""],
+			"fr": [""]
+		}],
+		"example": "sudare,sudar,suar,suer|ridere,reir,rir,rire",
+		"oriɡin": "Dorman2010, 31 | Bowman1980, 36",
+		"rule": "TD"
+	},
+"-VpV-": 
+	{
+		"c": {
+			"it": "-VpV-",
+			"es": "-VbV-",
+			"pt": "-VbV-",
+			"fr": "-VvV-"
+		},
+		"p": {
+			"it": [["-", "V", "p", "V", "-"], ["-", "V", "v", "V", "-"]],
+			"es": [["-", "V", "b", "V", "-"], ["-", "V", "β", "V", "-"]],
+			"pt": ["-", "V", "b", "V", "-"],
+			"fr": ["-", "V", "v", "V", "-"]
+		},
+		"ooc": [{
+			"it": ["p", "v"],
+			"es": ["b", "β"],
+			"pt": ["b"],
+			"fr": ["v"]
+		}],
+		"example": "sapere, saber, saber, savoir",
+		"oriɡin": "Dorman2010, 29|Bowman1980, 29|Hualde2016",
+		"rule": "PBV"
+	},
+"-VbV-": 
+	{
+		"c": {
+			"it": "-VvV-",
+			"es": "-VbV-,-VvV-",
+			"pt": "-VvV-",
+			"fr": "-VvV-"
+		},
+		"p": {
+			"it": ["-", "V", "v", "V", "-"],
+			"es": [["-", "V", "b", "V", "-"], ["-", "V", "β", "V", "-"]],
+			"pt": ["-", "V", "v", "V", "-"],
+			"fr": ["-", "V", "v", "V", "-"] 
+		},
+		"ooc": [{
+			"it": ["v"],
+			"es": ["b", "β"],
+			"pt": ["v"],
+			"fr": ["v"]
+		}],
+		"example": "avere, haber, haver, avoir",
+		"oriɡin": "Dorman2010, 29|Bowman1980, 29|Hualde2016",
+		"rule": "PBV"
+	},
+"-VvV-": 
+	{
+		"c": {
+			"it": "-VvV-",
+			"es": "-VvV-",
+			"pt": "-VvV-",
+			"fr": "-VvV-"
+		},
+		"p": {
+			"it": ["-", "V", "v", "V", "-"],
+			"es": [["-", "V", "b", "V", "-"], ["-", "V", "β", "V", "-"]],
+			"pt": ["-", "V", "v", "V", "-"],
+			"fr": ["-", "V", "v", "V", "-"] 
+		},
+		"ooc": [{
+			"it": ["v"],
+			"es": ["b", "β"],
+			"pt": ["v"],
+			"fr": ["v"]
+		}],
+		"example": "vivere, vivir, viver, vivre",
+		"oriɡin": "Dorman2010, 29|Bowman1980, 29",
+		"rule": "PBV"
+	},
+"-VvV": 
+	{
+		"c": {
+			"it": "-VvV",
+			"es": "-VvV",
+			"pt": "-VvV",
+			"fr": "-Vf"
+		},
+		"p": {
+			"it": ["-", "V", "v", "V"],
+			"es": [["-", "V", "b", "V", "-"], ["-", "V", "β", "V", "-"]],
+			"pt": ["-", "V", "v", "V"],
+			"fr": [["-", "V"], ["-", "V", "f"]] 
+		},
+		"ooc": [{
+			"it": ["v"],
+			"es": ["b", "β"],
+			"pt": ["v"],
+			"fr": ["", "f"]
+		}],
+		"example": "chiave, llave, chave, clef",
+		"oriɡin": "Dorman2010, 29|Bowman1980, 29",
+		"rule": "PBV"
+	},
+"plV-":
+	{
+
+		"c": {
+			"it": "piV-",
+			"es": "llV-",
+			"pt": "chV-, prV-",
+			"fr": "plV-"
+		},
+		"p": {
+			"it": ["p", "j", "V", "-"],
+			"es": ["ʝ", "V", "-"],
+			"pt": [["ʃ", "V", "-"], ["p", "r", "V", "-"]],
+			"fr": ["p", "l", "V", "-"] 
+		},
+		"ooc": [{
+			"it": ["pj"],
+			"es": ["ʝ"],
+			"pt": ["ʃ"],
+			"fr": ["pl"]
+		}],
+		"example": "pieno, lleno, cheio, plein",
+		"oriɡin": "Dorman2010, 30|Bowman1980, 30",
+		"rule": "PBV"
+	},
+"blV-":
+	{
+
+		"c": {
+			"it": "biV-",
+			"es": "blV-",
+			"pt": "prV-",
+			"fr": "blV-"
+		},
+		"p": {
+			"it": ["b", "j", "V", "-"],
+			"es": ["b", "l", "V", "-"],
+			"pt": ["p", "r", "V", "-"],
+			"fr": ["b", "l", "V", "-"] 
+		},
+		"ooc": [{
+			"it": ["b"],
+			"es": ["b"],
+			"pt": ["p"],
+			"fr": ["b"]
+		}],
+		"example": "bianco, blanco, branco, blanche",
+		"oriɡin": "Dorman2010, 30|Bowman1980, 30 note 1 and 2",
+		"rule": "PBV"
+	},
+"-tate":
+	{
+		"c": {
+			"it": "-ta",
+			"es": "-tad,-dad",
+			"pt": "-tade,-dade",
+			"fr": "-té"
+		},
+		"p": {
+			"it": [ "-", "t", "a"],
+			"es": [["-", "t", "a", "d"],["-", "t", "a", "ð"],["-", "d", "a", "d"],["-", "d", "a", "ð"],["-", "ð", "a", "ð"]],
+			"pt": [["-", "t", "a", "ð", "ɨ"], ["-", "d", "a", "ð", "ɨ"], ["-", "ð", "a", "ð", "ɨ"]],
+			"fr": ["-", "t", "e"] 
+		},
+		"ooc": [{
+			"it": ["t"],
+			"es": ["t", "d", "ð"],
+			"pt": ["t", "d", "ð"],
+			"fr": ["t"]
+		}],
+		"example": "libertà,libertad,libertade,liberté",
+		"oriɡin": "Dorman2010, 32|Bowman1980, 38",
+		"rule": "TD"
+	},
+"-tute":
+	{
+		"c": {
+			"it": "-tu",
+			"es": "-tud",
+			"pt": "-tude",
+			"fr": "-tu"
+		},
+		"p": {
+			"it": ["-", "t", "u"],
+			"es": ["-", "t", "u", "ð"],
+			"pt": ["-", "t", "u", "ð", "ɨ"],
+			"fr": ["-", "t", "y"] 
+		},
+		"ooc": [{
+			"it": ["t"],
+			"es": ["t"],
+			"pt": ["t"],
+			"fr": ["t"]
+		}],
+		"example": "virtu,virtud,virtude,vertu",
+		"oriɡin": "Dorman2010, 32|Bowman1980, 38",
+		"rule": "TD"
+	},
+"-tr-":
+	{
+		"c": {
+			"it": "-tr-,-dr-",
+			"es": "-dr-",
+			"pt": "-dr-",
+			"fr": "-r-"
+		},
+		"p": {
+			"it": [["-", "t", "r", "-"],["-", "d", "r", "-"]],
+			"es": ["-", "d", "ɾ", "-"],
+			"pt": ["-", "ð", "ɾ", "-"],
+			"fr": ["-", "r", "-"] 
+		},
+		"ooc": [{
+			"it": ["t", "d"],
+			"es": ["d"],
+			"pt": ["ð"],
+			"fr": [""]
+		}],
+		"example": "pietra,piedra,pedra,pierre",
+		"oriɡin": "Bowman1980, 39",
+		"rule": "TD"
+	},
+"-pr-":
+	{
+		"c": {
+			"it": "-pr-",
+			"es": "-br-",
+			"pt": "-br-",
+			"fr": "-vr-"
+		},
+		"p": {
+			"it": ["-", "p", "r", "-"],
+			"es": ["-", "b", "ɾ", "-"],
+			"pt": ["-", "b", "ɾ", "-"],
+			"fr": ["-", "v", "ʁ", "-"] 
+		},
+		"ooc": [{
+			"it": ["p"],
+			"es": ["b"],
+			"pt": ["b"],
+			"fr": ["v"]
+		}],
+
+		"example": "aprile,abril,abril,avril",
+		"oriɡin": "Bowman1980, 39",
+		"rule": "PBV"
+	},
+
+"-tj-":
+	{
+		"c": {
+			"it": "-zz-,-z-",
+			"es": "-z-",
+			"pt": "-ç-,-z-",
+			"fr": "-s-,-ss-,-c-,-ç-"			
+		},
+		"p": {
+			"it": [["-", "t", "s", "-"],["-", "d", "z", "-"],["-", "d", "ʒ", "-"]],
+			"es": ["-", "θ", "-"],
+			"pt": [["-", "s", "-"], ["-", "z", "-"]],
+			"fr": [["-", "s", "-"], ["-", "z", "-"]]
+		},
+		"ooc": [{
+			"it": ["ts", "dz", "dʒ"],
+			"es": ["θ"],
+			"pt": ["s", "z"],
+			"fr": ["s", "z"]
+		}],
+		"example": "pozzo, pozo, poço, puits",
+		"oriɡin": "Dorman2010, 33|Bowman1980, 40",
+		"rule": "TD"
+	},
+"-tion":
+	{
+		"c": {
+			"it": "-zione",
+			"es": "-cion'",
+			"pt": "-çao",
+			"fr": "-tion"			
+		},
+		"p": {
+			"it": ["-", "tː", "s", "j", "o", "n", "e"],
+			"es": ["-", "θ", "j", "o", "n"],
+			"pt": ["-", "s", "ɐ̃", "w̃"],
+			"fr": ["-", "s", "j", "ɔ̃"]
+		},
+		"ooc": [{
+			"it": ["tːsj"],
+			"es": ["θj"],
+			"pt": ["s"],
+			"fr": ["sj"]
+		}],
+		"example": "nazione, nacion, naçao, nation",
+		"oriɡin": "Dorman2010, 34|Bowman1980, 40, note 6",
+		"rule": "TD"
+	},
+"-VptV-":
+	{
+		"c": {
+			"it": "tt",
+			"es": "t,ut",
+			"pt": "t,it,ut",
+			"fr": "pt,tt,t"
+		},
+		"p": {
+			"it": ["-", "V", "tː", "V", "-"],
+			"es": ["-", "V", "t", "V", "-"],
+			"pt": ["-", "V", "t", "V", "-"],
+			"fr": ["-", "V", "t", "V", "-"]
+		},
+		"ooc": [{
+			"it": ["tː"],
+			"es": ["t"],
+			"pt": ["t"],
+			"fr": ["t"]
+		}],
+		"example": "scritto, escrito, escrito, écrit|battezzare, bautizar, boutiçar, baptiser",
+		"oriɡin": "Dorman2010, 36|Bowman1980, 31",
+		"rule": "TD"
+	},
+"-aticu":	
+	{
+		"c": {
+			"it": "-aɡɡio",
+			"es": "-aje",
+			"pt": "-aɡem",
+			"fr": "-aɡe"
+		},
+		"p": {
+			"it": ["-", "a", "dː", "ʒ", "o"],
+			"es": ["-", "a", "x", "e"],
+			"pt": ["-", "a", "ʒ", "ẽ", "j̃"],
+			"fr": ["-", "aː", "ʒ"]
+		},
+		"ooc": [{
+			"it": ["dːʒ"],
+			"es": ["x"],
+			"pt": ["ʒ"],
+			"fr": ["ʒ"]
+		}],
+		"example": "viaɡɡio, viaje, viaɡem, voyaɡe",
+		"oriɡin": "Dorman2010, 8",
+		"rule": "TD"
+	},
+"-dr-": 
+	{
+		"c": {
+			"it": "-dr-,-r-",
+			"es": "-dr-,-r-",
+			"pt": "-dr-,-r-",
+			"fr": "-r-"
+		},
+		"p":{
+			"it": [["-", "d", "r", "-"], ["-", "r", "-"]],
+			"es": [["-", "d", "ɾ", "-"], ["-", "ɾ", "-"]],
+			"pt": [["-", "ð", "ɾ", "-"], ["-", "ɾ", "-"]],
+			"fr": [["-", "ʁ", "-"]]
+		},
+		"ooc": [{
+			"it": ["d"],
+			"es": ["d"],
+			"pt": ["ð"],
+			"fr": [""]
+		}],
+		"example": "quaranta, cuarenta, quaranta, quarante",
+		"oriɡin": "Dorman2010, 11|Bowman1980, 11",
+		"rule": "TD"
+	},
+"-br-": 
+	{
+		"c": {
+			"it": "-bbr-",
+			"es": "-br-",
+			"pt": "-br-,-vr-",
+			"fr": "-vr-"
+		},
+		"p": {
+			"it": [["-", "bː", "r", "-"],["-", "b", "r", "-"]],
+			"es": [["-", "b", "ɾ", "-"],["-", "β", "r", "-"]],
+			"pt": [["-", "β", "ɾ", "-"],["-", "v", "ɾ", "-"]],
+			"fr": ["-", "v", "ʁ", "-"]
+		},
+		"ooc": [{
+			"it": ["bː", "b"],
+			"es": ["b", "β"],
+			"pt": ["β", "v"],
+			"fr": ["v"]
+		}],
+		"example": "febbre, fiebre, febre, fièvre",
+		"oriɡin": "Dorman2010, 11|Bowman1980, 11",
+		"rule": "PBV"
+	},
+"-pVt/pVd/bVt/vVt-": 
+	{
+		"c": {
+			"it": "",
+			"es": "-ud-",
+			"pt": "",
+			"fr": "-t-"
+		},
+		"p": {
+			"it": [],
+			"es": ["-", "u", "d", "-"],
+			"pt": [],
+			"fr": ["-", "t", "-"]
+		},
+		"ooc": [{
+			"it": [],
+			"es": ["d"],
+			"pt": [],
+			"fr": ["t"]
+		}],
+		"example": ", duda, , doute",
+		"oriɡin": "Bowman1980, 31 note ",
+		"rule": "TD"
+	},
+"djV-": 
+	{
+		"c": {
+			"it": "ɡ-,-ɡi-",
+			"es": "j-,-",
+			"pt": "ɡ-,j",
+			"fr": "ɡ-,j"
+		},
+		"p": {
+			"it": ["d", "ʒ", "V", "-"],
+			"es": ["x", "V", "-"],
+			"pt": ["ʒ", "V", "-"],
+			"fr": ["ʒ", "V", "-"]
+		},
+		"ooc": [{
+			"it": ["dʒ"],
+			"es": ["x"],
+			"pt": ["ʒ"],
+			"fr": ["ʒ"]	
+		}],
+		"example": "ɡiornale, jornal, jornal, journal",
+		"oriɡin": "Bowman1980, 18",
+		"rule": "TD"
+	},	
+"-djV-": 
+	{
+		"c": {
+			"it": "-ɡɡ-,-ɡɡi-",
+			"es": "-y-,--",
+			"pt": "-ɡ-,-j",
+			"fr": "--"
+		},
+		"p": {
+			"it": [["-", "dː", "ʒ", "-"], ["-", "dː", "-"]],
+			"es": ["-", "j", "-"],
+			"pt": ["-", "ʒ", "-"],
+			"fr": ["-", "-"]
+		},
+		"ooc": [{
+			"it": ["dʒ", "dː"],
+			"es": ["j"],
+			"pt": ["ʒ"],
+			"fr": [""]	
+		}],
+		"example": "maɡɡio, mayo, maio, mai",
+		"oriɡin": "Dorman2010, 31|Bowman1980, 19",
+		"rule": "TD"
+	},	
+"-mVn-": 
+	{
+		"c": {
+			"it": "-m-",
+			"es": "-mbr-",
+			"pt": "-m",
+			"fr": "-mm-"
+		},
+		"p": {
+			"it": ["-", "m", "-"],
+			"es": ["-", "m", "b", "ɾ", "-"],
+			"pt": ["-", "m", "-"],
+			"fr": ["-", "m", "-"]
+		},
+		"example": "sémina, siembra, semea, sème",
+		"oriɡin": "Bowman1980, 23",
+		"rule": "PBV"
+	},		
+"-mVt-": 
+	{
+		"c": {
+			"it": "-nt-",
+			"es": "-nd-",
+			"pt": "-nd",
+			"fr": "-nt-"
+		},
+		"p": {
+			"it": ["-", "n", "t", "-"],
+			"es": ["-", "n", "d", "-"],
+			"pt": ["-", "d", "-"],
+			"fr": ["-", "t", "-"]
+		},
+		"ooc": [{
+			"it": ["t"],
+			"es": ["d"],
+			"pt": ["d"],
+			"fr": ["t"]	
+		}],
+		"example": "conte, conde, conde, comte",
+		"oriɡin": "Bowman1980, 23",
+		"rule": "TD"
+	},	
+"-mpt-": 
+	{
+		"c": {
+			"it": "-nt-",
+			"es": "-nt-",
+			"pt": "-nt",
+			"fr": "-nt-"
+		},
+		"p": {
+			"it": ["-", "n", "t", "-"],
+			"es": ["-", "n", "t", "-"],
+			"pt": ["-", "t", "-"],
+			"fr": ["-", "t", "-"]
+		},
+		"ooc": [{
+			"it": ["t"],
+			"es": ["t"],
+			"pt": ["t"],
+			"fr": ["t"]	
+		}],
+		"example": "conta, cuenta, conta, compte",
+		"oriɡin": "Bowman1980, 23",
+		"rule": "TD"
+	},	
+"-mb-": 
+	{
+		"c": {
+			"it": "-mb-",
+			"es": "-m-",
+			"pt": "-mb",
+			"fr": "-mb-"
+		},
+		"p": {
+			"it": ["-", "m", "b", "-"],
+			"es": ["-", "m", "-"],
+			"pt": ["-", "b", "-"],
+			"fr": ["-", "b", "-"]
+		},
+		"ooc": [{
+			"it": ["b"],
+			"es": [""],
+			"pt": ["b"],
+			"fr": ["b"]	
+		}],
+		"example": "palomba, paloma, pombo, palombe",
+		"oriɡin": "Bowman1980, 23",
+		"rule": "PBV"
+	},
+"-ps-": 
+	{
+		"c": {
+			"it": "-ss-", 
+			"es": "-ss-",
+			"pt": "-ss",
+			"fr": "-s-"
+		},
+		"p": {
+			"it": ["-", "s", "-"],
+			"es": ["-", "s", "-"],
+			"pt": ["-", "s", "-"],
+			"fr": ["-", "s", "-"]
+		},
+		"example": "medesimo,mismo,mesmo,même",
+		"oriɡin": "Bowman1980, 25",
+		"rule": "PBV"
+	},
+"-pj-": 
+	{
+		"c": {
+			"it": "-ppi-", 
+			"es": "-ip-",
+			"pt": "-ip-,-ib-",
+			"fr": "-ch-"
+		},
+		"p": {
+			"it": ["-", "pː", "j", "-"],
+			"es": ["-", "j", "p", "-"],  
+			"pt": ["-", "j", "b", "-"],
+			"fr": ["-", "ʃ", "-"]
+		},
+		"ooc": [{
+			"it": ["pːj"],
+			"es": ["jp"],
+			"pt": ["jb"],
+			"fr": ["ʃ"]	
+		}],
+		"example": "sappia,sepa,saiba,sache",
+		"oriɡin": "Bowman1980, 32",
+		"rule": "PBV"
+	},
+"-bj-": 
+	{
+		"c": {
+			"it": "-bbi-", 
+			"es": "-y-, -bi-",
+			"pt": "-iv-",
+			"fr": "-ɡ-"
+		},
+		"p": {
+			"it": ["-", "bː", "j", "-"],
+			"es": [["-", "j", "-"], ["-", "b", "j", ""]],  
+			"pt": ["-", "j", "v", "-"],
+			"fr": ["-", "ʒ", "-"]
+		},
+		"ooc": [{
+			"it": ["bːj"],
+			"es": ["j", "bj"],
+			"pt": ["jv"],
+			"fr": ["ʒ"]	
+		}],
+		"example": "rabbia,,,raɡe",
+		"oriɡin": "Bowman1980, 32 - look at note 4 for Spanish",
+		"rule": "PBV"
+	},
+"-bb-": 
+	{
+		"c": {
+			"it": "-bb-", 
+			"es": "-b-",
+			"pt": "-b-",
+			"fr": "-bb-"
+		},
+		"p": {
+			"it": [["-", "V", "bː","V", "-"], ["-", "V", "b", "V", "-"]],
+			"es": ["-", "V", "b", "V", "-"],  
+			"pt": ["-", "V", "b", "V", "-"],
+			"fr": ["-", "V", "b", "V", "-"]
+		},
+		"ooc": [{
+			"it": ["bː", "b"],
+			"es": ["b"],  
+			"pt": ["b"],
+			"fr": ["b"]
+		}],
+		"example": "abate, abad, abade, abbé",
+		"oriɡin": "Bowman1980, 10, all examples are intervocalic",
+		"rule": "PBV"
+	},
+"-pp-": 
+	{
+		"c": {
+			"it": "-pp-", 
+			"es": "-p-",
+			"pt": "-p-",
+			"fr": "-pp-"
+		},
+		"p": {
+			"it": [["-", "V", "pː","V", "-"], ["-", "V", "p","V",  "-"]],
+			"es": ["-", "V", "p", "V", "-"],  
+			"pt": ["-", "V", "p", "V", "-"],
+			"fr": ["-", "V", "p", "V", "-"]
+		},
+		"ooc": [{
+			"it": ["pː", "p"],
+			"es": ["p"],  
+			"pt": ["p"],
+			"fr": ["p"]
+		}],
+		"example": "coppa, copa, copa, coupe",
+		"oriɡin": "Bowman1980, 10, all examples are intervocalic",
+		"rule": "PBV"
+	},
+"-tt-": 
+	{
+		"c": {
+			"it": "-tt-", 
+			"es": "-t-",
+			"pt": "-t-",
+			"fr": "-tt-"
+		},
+		"p": {
+			"it": [["-", "V", "tː","V", "-"], ["-", "V", "t", "V", "-"]],
+			"es": ["-","V",  "t", "V", "-"],  
+			"pt": ["-","V",  "t", "V", "-"],
+			"fr": ["-","V",  "t", "V", "-"]
+		},
+		"ooc": [{
+			"it": ["tː", "t"],
+			"es": ["t"],  
+			"pt": ["t"],
+			"fr": ["t"]
+		}],
+		"example": "gotta, gota, gota, goutte",
+		"oriɡin": "Bowman1980, 10, all examples are intervocalic",
+		"rule": "TD"
+	},
+"-dd-": 
+	{
+		"c": {
+			"it": "-dd-", 
+			"es": "-d-",
+			"pt": "-d-",
+			"fr": "-dd-"
+		},
+		"p": {
+			"it": [["-", "V", "dː","V", "-"], ["-", "V", "d", "V", "-"]],
+			"es": ["-", "V", "d","V",  "-"],  
+			"pt": ["-", "V", "d","V",  "-"],
+			"fr": ["-", "V", "d","V",  "-"]
+		},
+		"ooc": [{
+			"it": ["dː", "d"],
+			"es": ["d"],  
+			"pt": ["d"],
+			"fr": ["d"]
+		}],
+		"example": "addurre, aducir, aduzir, /",
+		"oriɡin": "Bowman1980, 10, all examples are intervocalic",
+		"rule": "TD"
+	}
+}
+
+ 
+ 
